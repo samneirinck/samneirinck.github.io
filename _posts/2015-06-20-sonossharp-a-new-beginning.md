@@ -19,7 +19,7 @@ This lead me to reinvent SonosSharp, which was previously just a dump of the lib
  - And of course, develop it all in the open, on Github
 
 I strive to not let this be another one of my side-projects, as illustrated brilliantly in this commit strip.
-![Side-Project](http://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
+![Side-Project](/img/Strip-Side-project-650-finalenglish.jpg)
 
 Time to get started!
 
